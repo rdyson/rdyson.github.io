@@ -1783,6 +1783,9 @@ main p > a.popup:not(.normal):not(.left):not(.right) {
   margin-top: 2rem;
   overflow-wrap: break-word;
 }
+.content a {
+  white-space: nowrap;
+}
 .content a.popup {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;

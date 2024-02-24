@@ -24,4 +24,4 @@ assets/js/dist
 # DS_Store
 *.DS_Store
 
-deploy.sh
+*.sh
