@@ -21,7 +21,7 @@ My own sort of [commandlinefu](https://www.commandlinefu.com).
 
 Run a command for multiple files
 ```sh
-for i in *; do tinypng $i; done;
+for i in *; do wc -l $i; done;
 ```
 
 Batch prepend filename
@@ -124,7 +124,7 @@ du -a | cut -d/ -f2 | sort | uniq -c | sort -nr
 
 ## Folders
 
-Create nested dirs
+Create nested folders
 ```sh
 mkdir -p dir1/dir2/dir3/dir4/
 ```
@@ -241,9 +241,11 @@ cat url-list.txt | xargs wget –c
 
 ## Images
 
-Find dimensions of image with ImageMagick
+All using ImageMagick (`brew install imagemagick`)
+
+Find dimensions of image
 ```sh
-identify -format '%w %h\n' flat/bg-flat-hero.jpg
+identify -format '%w %h\n' foo.jpg
 ```
 
 Convert image format
@@ -301,7 +303,7 @@ sudo !!
 
 Run a command every 30 seconds
 ```sh
-while true; do diskutil cs list | grep 'Conversion Progress' ; sleep 30; done
+while true; do ls ; sleep 30; done
 ```
 
 Another way to run a command every 30 seconds
