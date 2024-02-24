@@ -9,4 +9,6 @@ In VS Code, I often want to share a Github link to a specific line with teammate
 
 The built in "Copy vscode.dev Link", which is also accessible by right-clicking on a line, is handy too, especially if you want to make a quick change to a file, but might not be as useful as a Github link.
 
+Credit to [this YouTube video](https://www.youtube.com/watch?v=o2eP2I69oTQ).
+
 ![Toggl hours in macOS toolbar using xbar](assets/img/2024-02-13-copy-github-link.png "Toggl hours in macOS toolbar using xbar")
