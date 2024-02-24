@@ -25,3 +25,4 @@ assets/js/dist
 *.DS_Store
 
 *.sh
+*.tool-versions
