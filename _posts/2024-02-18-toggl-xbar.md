@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Toggl hours in your macOS toolbar"
-date: "2024-02-18 14:29:00"
+date: "2024-02-18 14:30:00"
 categories: productivity
 ---
 
