@@ -45,6 +45,12 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
 
+      - name: Fetch pinned repos
+        run: python3 scripts/fetch_pinned_repos.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: rdyson
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:

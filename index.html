@@ -2,3 +2,19 @@
 layout: home
 # Index page
 ---
+
+{% assign pinned_repos = site.data.pinned_repos %}
+{% if pinned_repos and pinned_repos.size > 0 %}
+<section class="pinned-repos">
+  <div class="pinned-repos-grid">
+    {% for repo in pinned_repos %}
+    <article class="pinned-repo-card">
+      <h3 class="pinned-repo-name">
+        <a href="{{ repo.url }}" target="_blank" rel="noopener noreferrer">{{ repo.name }}</a>
+      </h3>
+      <p class="pinned-repo-description">{{ repo.description }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
