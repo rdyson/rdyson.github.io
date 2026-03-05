@@ -1,0 +1,44 @@
+[
+  {
+    "description": "Forward links, get a daily podcast digest. Scripts that turns article URLs into a single podcast episode via Claude + Edge TTS. 🎙️",
+    "language": "Python",
+    "name": "morsel",
+    "stars": 5,
+    "url": "https://github.com/rdyson/morsel"
+  },
+  {
+    "description": "A reusable, self-hosted progress tracker for working through any structured goal with friends or colleagues.",
+    "language": "Shell",
+    "name": "cadence",
+    "stars": 0,
+    "url": "https://github.com/rdyson/cadence"
+  },
+  {
+    "description": "AppleScript to send messages to multiple recipients using Messages/SMS on macOS",
+    "language": "Shell",
+    "name": "bulk-macos-messages",
+    "stars": 81,
+    "url": "https://github.com/rdyson/bulk-macos-messages"
+  },
+  {
+    "description": "A plugin for xbar to display the current week's hours worked from Toggl",
+    "language": "Shell",
+    "name": "toggl-xbar",
+    "stars": 1,
+    "url": "https://github.com/rdyson/toggl-xbar"
+  },
+  {
+    "description": "Node script to create a quick text overlay on a random image, for sharing on Instagram and elsewhere.",
+    "language": "JavaScript",
+    "name": "quick-text-image",
+    "stars": 0,
+    "url": "https://github.com/rdyson/quick-text-image"
+  },
+  {
+    "description": "My personal dotfiles for zsh, vim, others",
+    "language": "Shell",
+    "name": "dotfiles",
+    "stars": 0,
+    "url": "https://github.com/rdyson/dotfiles"
+  }
+]
