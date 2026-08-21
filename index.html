@@ -1,20 +1,13 @@
 ---
-layout: home
-# Index page
+layout: landing
+title: rdyson.dev
 ---
 
-{% assign pinned_repos = site.data.pinned_repos %}
-{% if pinned_repos and pinned_repos.size > 0 %}
-<section class="pinned-repos">
-  <div class="pinned-repos-grid">
-    {% for repo in pinned_repos %}
-    <article class="pinned-repo-card">
-      <h3 class="pinned-repo-name">
-        <a href="{{ repo.url }}" target="_blank" rel="noopener noreferrer">{{ repo.name }}</a>
-      </h3>
-      <p class="pinned-repo-description">{{ repo.description }}</p>
-    </article>
-    {% endfor %}
-  </div>
-</section>
-{% endif %}
+<h1>rdyson.dev</h1>
+
+<nav aria-label="Profiles">
+  <ul>
+    <li><a href="https://github.com/rdyson" rel="me">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/rdyson/" rel="me">LinkedIn</a></li>
+  </ul>
+</nav>
