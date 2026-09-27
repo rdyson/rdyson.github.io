@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: Antsy Privacy Policy
-description: How the Antsy countdown app for iPhone and iPad handles your data.
+description: How the Antsy countdown app for iPhone handles your data.
 permalink: /antsy/privacy
 ---
 
@@ -23,7 +23,7 @@ Antsy: [Support](/antsy/support) · [Privacy Policy](/antsy/privacy)
 
 ## Overview
 
-Antsy is a countdown app for iPhone and iPad. It lets you track upcoming dates and, if you choose, share a list of events with people you invite. This policy explains what data Antsy handles, where it is stored, and who can see it.
+Antsy is a countdown app for iPhone. It lets you track upcoming dates and, if you choose, share a list of events with people you invite. This policy explains what data Antsy handles, where it is stored, and who can see it.
 
 ## Data We Collect
 
@@ -51,6 +51,7 @@ Sharing is off unless you turn it on. When you share your list, Antsy uses Apple
 - Only people you invite can join. Shared lists are never public, and an invitation link does not work for anyone who wasn't invited.
 - People on a shared list can view, add, edit, and delete its events.
 - As part of iCloud sharing, Apple may show participants each other's names or iCloud contact details.
+- Joining someone else's list doesn't delete your own events. They stay in your iCloud account.
 - The owner can remove people or stop sharing at any time, and participants can leave a shared list at any time.
 
 ## Notifications

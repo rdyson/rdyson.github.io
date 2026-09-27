@@ -1,7 +1,7 @@
 ---
 layout: app-page
 title: Antsy Support
-description: Help and answers for the Antsy countdown app for iPhone and iPad.
+description: Help and answers for the Antsy countdown app for iPhone.
 permalink: /antsy/support
 ---
 
@@ -15,11 +15,11 @@ Antsy: [Support](/antsy/support) · [Privacy Policy](/antsy/privacy)
 
 ## About Antsy
 
-Antsy is a simple countdown app for iPhone and iPad. Add the dates you're waiting for (trips, birthdays, launches, anything) and Antsy shows how long is left. Events sync across your devices with iCloud, a Home Screen widget shows what's coming up next, and you can share your list with people you invite so everyone can add and edit events together.
+Antsy is a simple countdown app for iPhone. Add the dates you're waiting for (trips, birthdays, launches, anything) and Antsy shows how long is left. Events sync across your devices with iCloud, a Home Screen widget shows what's coming up next, and you can share your list with people you invite so everyone can add and edit events together.
 
 ## Requirements
 
-- iPhone or iPad running iOS or iPadOS 17.6 or later.
+- An iPhone running iOS 17.6 or later.
 - An iCloud account. Antsy stores and syncs your events in your own iCloud account, so there is nothing else to sign up for. Make sure you are signed in to iCloud in the Settings app and that iCloud is allowed for Antsy.
 
 Without iCloud, Antsy can still show events it has already saved on the device, but you can't add, edit, sync, or share events.
@@ -28,7 +28,7 @@ Without iCloud, Antsy can still show events it has already saved on the device, 
 
 1. Tap the sharing button (the person icon) at the top left of your list.
 2. Choose how to send the invitation, such as Messages or Mail, and pick the people to invite.
-3. The people you invite tap the link on their iPhone or iPad. It opens Antsy and adds your list.
+3. The people you invite tap the link on their iPhone. Antsy opens and asks them to confirm before switching to your list.
 
 Everyone on a shared list can view, add, edit, and delete its events, and changes sync to everyone automatically. Only the people you invite can join. To remove someone or stop sharing, tap the sharing button again. If someone shared a list with you, you can leave it the same way.
 
@@ -52,7 +52,7 @@ Tap an event to edit it. Swipe left on an event to delete it. Past events are li
 
 ### Can I have more than one list?
 
-Not yet. Antsy shows one list at a time, which you can keep to yourself or share. If you join a list someone else shared with you, Antsy shows that list instead of your own. Your own events stay in your iCloud account and come back if you leave the shared list. You can be part of only one shared list at a time.
+Not yet. Antsy shows one list at a time, which you can keep to yourself or share. When you accept an invitation to someone else's list, Antsy asks you to confirm, then switches to their list. Your own events aren't deleted: they stay in your iCloud account and come back if you leave the shared list.
 
 ### Where is my data stored? Can you see it?
 
