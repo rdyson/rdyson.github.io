@@ -78,4 +78,4 @@ If this policy changes, the updated version will be posted on this page with a n
 
 ## Contact
 
-Questions about this policy? Email [rob@rdyson.dev](mailto:rob@rdyson.dev).
+Questions about this policy? Email [antsy@rdyson.dev](mailto:antsy@rdyson.dev).

@@ -60,4 +60,4 @@ Your events are stored in your own iCloud account and on your devices. The devel
 
 ## Contact
 
-Still stuck, found a bug, or have a suggestion? Email [rob@rdyson.dev](mailto:rob@rdyson.dev) and include your device model and iOS version if you're reporting a problem.
+Still stuck, found a bug, or have a suggestion? Email [antsy@rdyson.dev](mailto:antsy@rdyson.dev) and include your device model and iOS version if you're reporting a problem.
