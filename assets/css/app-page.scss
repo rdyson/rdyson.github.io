@@ -1,0 +1,66 @@
+---
+---
+
+// Long-form app pages (privacy policies, support). Builds on landing.css.
+
+body.app-page {
+  padding: 3rem 1.5rem;
+  line-height: 1.6;
+}
+
+.app-page main {
+  width: min(100%, 42rem);
+}
+
+.app-page h1 {
+  margin-bottom: 0.25rem;
+  font-size: clamp(2rem, 6vw, 2.75rem);
+  letter-spacing: -0.03em;
+}
+
+.app-page h2 {
+  margin: 2.25rem 0 0.5rem;
+  font-size: 1.25rem;
+  letter-spacing: -0.01em;
+}
+
+.app-page h3 {
+  margin: 1.5rem 0 0.25rem;
+  font-size: 1.05rem;
+}
+
+.app-page p {
+  margin: 0 0 1rem;
+}
+
+.app-page main ul,
+.app-page main ol {
+  margin: 0 0 1rem;
+  padding-left: 1.5rem;
+}
+
+.app-page main ul {
+  list-style: disc;
+}
+
+.app-page li + li {
+  margin-top: 0.35rem;
+}
+
+.app-page .meta {
+  margin-bottom: 2rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.app-page .page-nav {
+  margin: 0 0 2rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.app-page footer {
+  margin-top: 3rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
