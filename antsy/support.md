@@ -10,7 +10,7 @@ permalink: /antsy/support
 Countdowns for the dates you're looking forward to.
 {: .meta}
 
-Antsy: [Support](/antsy/support) · [Privacy Policy](/antsy/privacy)
+Antsy: [Support](/antsy/support) · [Privacy Policy](/antsy/privacy) · [App Store](https://apps.apple.com/us/app/antsy-shared-event-countdown/id6761765704)
 {: .page-nav}
 
 ## About Antsy
